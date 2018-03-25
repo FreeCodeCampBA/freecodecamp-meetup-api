@@ -9,9 +9,11 @@ end
 gem 'rails', '~> 5.1.5'
 gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 3.7'
+
+gem 'wor-requests', '~> 0.1.1'
+gem 'active_model_serializers', '~> 0.10.2'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
-
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
 # gem 'rack-cors'
