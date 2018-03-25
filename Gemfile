@@ -17,9 +17,9 @@ gem 'puma', '~> 3.7'
 # gem 'rack-cors'
 
 group :development, :test do
-  gem 'rspec-rails'
+  gem 'rspec-rails', '~> 3.7.2'
 
-  gem 'rubocop'
+  gem 'rubocop', '~> 0.53.0'
 
   gem 'pry-rails', '~> 0.3.6'
 end

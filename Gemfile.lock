@@ -165,8 +165,8 @@ DEPENDENCIES
   pry-rails (~> 0.3.6)
   puma (~> 3.7)
   rails (~> 5.1.5)
-  rspec-rails
-  rubocop
+  rspec-rails (~> 3.7.2)
+  rubocop (~> 0.53.0)
   spring
   spring-watcher-listen (~> 2.0.0)
 
